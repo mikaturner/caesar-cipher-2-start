@@ -72,4 +72,3 @@ elif direction == "decode":
 else:
   print("You did not enter a valid choice.  Please enter 'encode' or 'decode'")
 
-#TODO-3: Check if the user wanted to encrypt or decrypt the message by checking the 'direction' variable. Then call the correct function based on that 'drection' variable. You should be able to test the code to encrypt *AND* decrypt a message.
